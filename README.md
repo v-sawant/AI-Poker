@@ -8,6 +8,7 @@ Poker is a type of card game, using a standard 52-card deck, in which players be
 The game starts by forcing each player to bet an ante (a forced bet). Once the bet has been set, each player will receive five cards from the server. When it is a player's turn to act, the first action he takes binds him to his choice of action and changing his action after seeing how other players react to his initial action is not permitted. Once each player has received five cards the round can start. The first player can then choose to make one of a few specific actions:  
 - Until the first bet is made each player in turn may “check”, which is to not place a bet, or “open”, which is to make the first bet.  
 - After the first bet each player may “fold”, which is to drop out of the hand losing any bets they have already made; “call”, which is to match the highest bet so far made; or “raise”, which is to increase the previous high bet.  
+
 Each game, every player will receive a specified amount of chips which they can use for betting. The
 maximum amount of chips during a game, the amount the winner will have when the game is over,
 are the sum of all players initial amount of chips. 
